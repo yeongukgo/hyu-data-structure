@@ -1,5 +1,5 @@
 # hyu-data-structures
-- Data Structures assignments at Hanyang University (2019_CSE2010)
+- Data Structures (CSE2010) assignments at Hanyang University (Spring 2019)
 - Compilation Environment: Ubuntu 14.04.6, gcc 4.8.4 (with C99)
 
 # Assignments
